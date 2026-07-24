@@ -85,17 +85,34 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 
 ## 👨‍💻 Author
 
-**Khemchand Prajapat**
+<div align="center">
 
-📧 **Email:**  
-[kpprajapat76@gmail.com](mailto:kpprajapat76@gmail.com)
+# Khemchand Prajapat
 
-💼 **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhemchandPrajapat10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemchandprajapat10)
+### AI & Data Science Engineer | Data Analytics | Power BI | Python | SQL
 
-🌐 **GitHub:**  
-[![GitHub](https://img.shields.io/badge/GitHub-KhemchandPrajapat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhemchandPrajapat)
+<p>
+
+<a href="mailto:kpprajapat76@gmail.com">
+<img src="https://img.shields.io/badge/Email-kpprajapat76%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khemchandprajapat10">
+<img src="https://img.shields.io/badge/LinkedIn-KhemchandPrajapat10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KhemchandPrajapat">
+<img src="https://img.shields.io/badge/GitHub-KhemchandPrajapat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-⭐ If you found this project useful, please consider giving it a **Star**.
+<div align="center">
+
+⭐ **If you found this project useful, please consider giving it a Star!**
+
+</div>
