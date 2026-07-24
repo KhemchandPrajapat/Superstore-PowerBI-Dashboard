@@ -88,14 +88,14 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 **Khemchand Prajapat**
 
 📧 **Email:**  
-**kpparjapat76@gmail.com**
+[kpprajapat76@gmail.com](mailto:kpprajapat76@gmail.com)
 
 💼 **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemchandprajapat10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhemchandPrajapat10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemchandprajapat10)
 
-**KhemchandPrajapat10**
 🌐 **GitHub:**  
-https://github.com/KhemchandPrajapat
+[![GitHub](https://img.shields.io/badge/GitHub-KhemchandPrajapat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhemchandPrajapat)
+
 ---
 
-⭐ If you found this project useful, feel free to star this repository.
+⭐ If you found this project useful, please consider giving it a **Star**.
