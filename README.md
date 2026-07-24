@@ -91,8 +91,9 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 **kpparjapat76@gmail.com**
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/khemchand-prajapat-15935b28a
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemchandprajapat10)
 
+**KhemchandPrajapat10**
 🌐 **GitHub:**  
 https://github.com/KhemchandPrajapat
 ---
