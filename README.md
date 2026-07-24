@@ -1,5 +1,4 @@
-# 📊 Superstore Sales Dashboard using Power BI
-
+# 📊Superstore-PowerBI-Dashboard
 An interactive **Power BI dashboard** built using the **Superstore Sales Dataset** to analyze sales performance, customer behavior, product insights, and time-based business trends.
 
 ---
@@ -88,7 +87,7 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 
 **Khemchand Prajapat**
 
-- 📧 Email: Khemchand730030@gmail.com
+- 📧 Email: Kpparjapat76@gmail.com
 - 💼 LinkedIn: *(Add your LinkedIn profile URL here)*
 - 💻 GitHub: *(Add your GitHub profile URL here)*
 
