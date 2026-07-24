@@ -87,10 +87,14 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 
 **Khemchand Prajapat**
 
-- 📧 Email: Kpparjapat76@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn profile URL here)*
-- 💻 GitHub: *(Add your GitHub profile URL here)*
+📧 **Email:**  
+**kpparjapat76@gmail.com**
 
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/khemchand-prajapat-15935b28a
+
+🌐 **GitHub:**  
+https://github.com/KhemchandPrajapat
 ---
 
 ⭐ If you found this project useful, feel free to star this repository.
