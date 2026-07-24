@@ -43,7 +43,7 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 
 ### 🏠 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard-Overview](dashboard-overview.png)
 
 ---
 
