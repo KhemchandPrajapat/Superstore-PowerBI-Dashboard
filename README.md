@@ -91,23 +91,9 @@ The report includes interactive filters, DAX measures, bookmarks, and navigation
 
 ### AI & Data Science Engineer | Data Analytics | Power BI | Python | SQL
 
-[Badges]
-
-</div>
-
-<a href="mailto:kpprajapat76@gmail.com">
-<img src="https://img.shields.io/badge/Email-kpprajapat76%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/khemchandprajapat10">
-<img src="https://img.shields.io/badge/LinkedIn-KhemchandPrajapat10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KhemchandPrajapat">
-<img src="https://img.shields.io/badge/GitHub-KhemchandPrajapat-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+<a href="mailto:kpprajapat76@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/khemchandprajapat10">LinkedIn</a> •
+<a href="https://github.com/KhemchandPrajapat">GitHub</a>
 
 </div>
 
